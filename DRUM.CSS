@@ -1,0 +1,31 @@
+#heading{
+ font-size: 4rem;
+ font-family: cursive;
+
+ color: aqua;
+}
+body{
+    background-color: #283149;
+    text-align: center;
+}
+footer{
+    
+    color: #DBEDF3;
+    margin: 5%;
+
+}
+
+.drum{
+    margin: 5px 15px;
+    padding: 15px 32px;
+    margin-left: 10px;
+    font-size: 25px;
+    
+}
+.set{
+    margin-left: 20px;
+}
+.pressed{
+    opacity: 0.5;
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+}
